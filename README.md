@@ -44,6 +44,16 @@ linked in: (   Https://www.linkedin.com/in/asghar-khan-333a1140b?utm_source=shar
 * **Tech Stack:** Flutter, Dart
 * **Description:** A comprehensive hospital management and patient-centric digital health vault. Features secure user authentication and structured medical record tracking.
 
+* OTHER PROJECT LINK :
+* NO.01
+* FITNESS PLANNER :-  https://github.com/talhakhancompk248-ui/fitness-planner.git
+
+* NO.02
+* GLOBAL TRAVEL PLANNER:-  https://github.com/talhakhancompk248-ui/travel-planner.git
+
+* NO.03
+* EXPENCE TRACKER :-  https://github.com/talhakhancompk248-ui/expence-tracker.git
+
 ---
 
 ## 📜 Certifications
